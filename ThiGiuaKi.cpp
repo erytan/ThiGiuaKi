@@ -5,6 +5,7 @@ int main (){
     int n;
     cout << "Nhap n :" ; 
     cin >> n;
+	sohoanthien();
 	return 0;
 }
 int sohoanthien(){
