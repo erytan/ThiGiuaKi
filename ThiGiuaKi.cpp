@@ -1,9 +1,15 @@
 #include <iostream>
-using namespace std
+using namespace std;
 
 int main (){
     int n;
     cout << "Nhap n :" ; 
     cin >> n;
-	return 0;
+	sochinhphuong();
+	retrun 0;
 }
+int sochinhphuong(){
+	int n;
+	if((int)sqrt(n)==sqrt(n));
+}
+
